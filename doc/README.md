@@ -1,7 +1,7 @@
 ## Document for developer
 ### What should we do?
 
-well, rubino posts saving to ***android/data/ir.resaneh1.iptv/cache/Rubika/ru/***.
+well, rubino posts saving to ***android/data/ir.resaneh1.iptv/cache/Rubika/ru/***.<br>
 they not format. we must copy posts from location to user location and convert to **.jpg** or **.mp4**.
 also temp file in folder must deleting. (.perload and more)
 
